@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Everforest Dark",
+    "editor.fontFamily": "'Iosevka Nerd Font Mono', Consolas, 'Courier New', monospace, 'Iosevka Nerd Font Mono'",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": true,
+    "editor.fontWeight": "normal",
+    "terminal.integrated.fontFamily": "'IosevkaTerm Nerd Font Mono'",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\Makalo\\Oracle\\network\\admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\Makalo\\Oracle\\network\\admin",
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\Makalo\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\Makalo\\downloads",
+    "SourcePawnLanguageServer.includeDirectories": [],
+    "SourcePawnLanguageServer.compiler.path": ""
+}
